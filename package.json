@@ -1,0 +1,14 @@
+{
+  "name": "mw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^1.1.0"
+  }
+}
